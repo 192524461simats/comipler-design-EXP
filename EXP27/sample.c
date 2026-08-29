@@ -1,0 +1,1 @@
+Enter a string: abc is abc and abc is easy
